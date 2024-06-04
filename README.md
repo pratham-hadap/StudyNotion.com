@@ -1,1 +1,1 @@
-# StudyNotion Edtech Project
+StudyNotion Online Education Platform (MERN App) 
